@@ -1,5 +1,12 @@
-### Hi there 👋
+<div align="center">
 
+![Conclude](https://img.shields.io/badge/HELLO-THIS%20IS%20DRUKY-ffb86c?style=for-the-badge)
+  
+<h1 align="center">👋 Hey there!, I'm Soumik </h1>
+  
+<div align = 'center'>
+
+<img alt="GIF" src="Assets/juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.gif" width="400"/>
 <!--
 **Druky1/Druky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
