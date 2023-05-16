@@ -1,6 +1,6 @@
 <div align="center">
 
-![Conclude](https://img.shields.io/badge/HELLO-THIS%20IS%20DRUKY-ffb86c?style=for-the-badge)
+![Conclude](https://img.shields.io/badge/CALL%20ME-DRUKY-ffb86c?style=for-the-badge)
   
 <h1 align="center">👋 Hey there!, I'm Soumik </h1>
   
