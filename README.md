@@ -12,7 +12,7 @@
   
 </div>
  
-### 👨🏻‍💻 &nbsp;About Me
+### 💫 &nbsp;About Me
 ---------------------------------------------------------------------------------------------------------------------
 
 💡 &nbsp;- I'm keen to learn about new technologies and develop effective skills.\
@@ -53,6 +53,7 @@
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### 💟 Adores
 
@@ -60,10 +61,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
--------------------------------------------------------------------------------------------------------------------------------
-
 ### ⚙️ &nbsp;GitHub Analytics
-
+-------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Druky1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -71,9 +70,8 @@
 </a>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------
-
 ### 🤝🏻 &nbsp;Connect with Me
+-------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://linkedin.com/in/soumik-patra-a9494125b"><img src="https://img.shields.io/badge/-Soumik%20Patra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:official.spatra@gmail.com"><img src="https://img.shields.io/badge/-official.spatra-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
